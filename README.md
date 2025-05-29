@@ -1,6 +1,11 @@
 # Hammer Example VMFs
-This is where I put VMFs that are examples to creating something in hammer.
-Everything is free to use! No credit is needed.
-Let me know if there are any issues, and if you are having trouble creating something, let me know and I may make a VMF for you!
+A collection of example VMFs for Source games that demonstrate things.
+Everything is free to use! No credit is needed. Enjoy!
 
-# Enjoy!
+# Example VMFs
+
+**Breencast**
+An example of a Breencast, as seen in HL2. Logic and assets taken from an HL2 map and made independent of logic or assets unnecessary to have a functional Breencast.
+
+**Basic Infinite Map Implementation**
+This is a *very* rudimentary implementation of an "infinte" map using basic Hammer logic. Works great to make a flat world seem infinite, but has many limitations functionally and visually. 
